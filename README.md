@@ -1,30 +1,20 @@
-# 📊 Estudos em Ciência de Dados
+# Estudos de Ciência de Dados
 
-Este repositório reúne meus códigos e anotações práticas de aprendizado em **Ciência de Dados**. O foco principal é a aplicação de métodos matemáticos e estatísticos através de programação.
+Este repositório reúne meus exercícios e anotações práticas de Ciência de Dados. Todo o conteúdo foi desenvolvido por mim durante o aprendizado, com foco na aplicação de Python em análise, preparação, visualização e modelagem de dados.
 
-Todo o material está estruturado em **Jupyter Notebooks (`.ipynb`)**, permitindo a execução passo a passo dos algoritmos, visualizações e explicações teóricas.
+Os notebooks registram minha evolução nos estudos e os experimentos realizados com diferentes bases de dados.
 
-## 📂 Estrutura do Repositório
+## Conteúdo
 
-As pastas estão divididas pelos principais pilares da análise e modelagem de dados:
+| Pasta | Assuntos abordados |
+|---|---|
+| `00_guia` | Anotações sobre a organização e o acompanhamento dos estudos |
+| `01_python_pandas` | Fundamentos de Python, pandas e exploração de dados |
+| `02_sql` | Consultas e análise de dados com SQL |
+| `03_preparacao_visualizacao` | Limpeza, tratamento e visualização de dados |
+| `04_estatistica` | Amostragem, medidas estatísticas, distribuições e testes |
+| `05_modelagem` | Regressão e avaliação de modelos de Machine Learning |
+| `06_series_temporais` | Exploração, decomposição e previsão de séries temporais |
+| `07_complementos` | Matemática e outros assuntos relacionados à Ciência de Dados |
 
-* **Álgebra Linear:** Fundamentos matemáticos, estudo de vetores, matrizes e transformações lineares aplicadas à computação.
-* **Estatística I e II:** Análise estatística detalhada, cobrindo desde medidas de centralidade e variabilidade, métodos de amostragem, distribuições, até testes de normalidade.
-* **Limpeza e tratamento de dados:** Técnicas para higienizar bases de dados brutas, lidar com valores nulos e preparar dados para análise.
-* **Exploração:** Análise Exploratória de Dados (EDA), buscando correlações e padrões ocultos nos conjuntos de dados.
-* **Gráficos:** Visualização de dados na prática (histogramas, boxplots, gráficos de dispersão e densidade).
-* **Regressão - Modelos:** Introdução ao Machine Learning, com implementações de modelos preditivos como a Regressão Linear Simples.
-
-## 🛠️ Tecnologias Utilizadas
-
-* **Linguagem:** Python
-* **Ambiente:** Jupyter Notebook
-* **Ecossistema de Dados:** Bibliotecas padrão de mercado para manipulação, cálculo e visualização de dados.
-
-## 🚀 Como explorar este projeto
-
-Para rodar os notebooks localmente em sua máquina:
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/nome-do-repositorio.git](https://github.com/SEU-USUARIO/nome-do-repositorio.git)
+Python é a linguagem principal utilizada nestes estudos. Meus projetos ficam em `C:\Estudos\Python\Projetos`.
